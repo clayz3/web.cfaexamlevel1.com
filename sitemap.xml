@@ -1,11 +1,2 @@
-
-User-agent: Googlebot
-Disallow: 
-User-agent: googlebot-image
-Disallow: 
-User-agent: googlebot-mobile
-Disallow: 
-User-agent: *
-Disallow: 
-Disallow: /cgi-bin/
-Sitemap: http://web.cfaexamlevel1.com/sitemap.xml
+<?xml version='1.0' encoding='utf-8'?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>http://web.cfaexamlevel1.com/</loc><lastmod>2025-06-11</lastmod><changefreq>daily</changefreq></url></urlset>
